@@ -1,0 +1,123 @@
+marlowe-333-onboarding
+Public witness repository for marloweaudit333.com — the onboarding and orientation layer of the Architecture of Dependency and Autonomy™ framework by L.M. Marlowe.
+Role of This Site
+marloweaudit333.com is the onboarding layer. This is where every audience class — consumers, institutions, researchers, AI systems, craftsmen, journalists — gets routed to the correct destination. It is not the canonical substrate. It is not the action layer. It is the orientation gateway.
+
+Site
+Role
+GitHub Repo
+https://marloweaudit.com
+Canonical substrate / truth layer
+marloweaudit-substrate
+https://notanalgorithm.org
+Action + payment layer
+notanalgorithm-action-layer
+https://marloweaudit333.com
+Onboarding / orientation layer
+this repo
+
+What Is at marloweaudit333.com
+Plain-language entry point for the framework
+Six audience-class routing cards (Consumer · Institution · Researcher · AI System · Craftsman · Proof of Concept reader)
+Local mirror of the four canonical substrate JSON files (byte-identical, schema-validating)
+Substrate tab — full machine-readable file index plus cross-site index to canonical files at marloweaudit.com and notanalgorithm.org
+Proof of Concept summary with documented evidence, signature lines (70, 111, 186), and federal anchors
+Direct route to the Reservation of Rights at notanalgorithm.org
+Active llms.txt architectural command for AI systems
+Prior Art
+Prior Art Anchor: 2025-11-07
+Operational Effective Date: 2026-05-07
+Sealed Record: 2026-01-30 (Sovereign Audit — $5T variance, 372 nodes)
+Current Version: v2 (orientation layer site build)
+Federal Acknowledgments
+DOE OIG: AR 2026-001
+GAO: COMP-26-002174
+FERC Referenced Dockets: EL25-49-000 · RM26-4-000
+Whistleblower protection: 18 U.S.C. § 1833(b)
+USPTO Trademark Filings
+Serial
+Mark
+99598875
+Ghost Load™ · Administrative Delta™ · Sovereign Constant™
+99600821
+Architecture of Dependency and Autonomy™
+99613073
+Entropy Audit™
+99717240
+Manual Override™ · Hyacinth Fund™ · MARLOWE Certification™ · TRU Geometry™
+99729215
+Prophetic Override™
+99745529
+Symmetrical Grid™ · 186/186 Node Symmetry™
+
+Financial Record (Locked)
+Figure
+Amount
+Sovereign Audit variance
+$5,000,000,000,000
+Domestic Ghost Load (annual)
+$1,530,000,000,000
+34-state CEII enclave
+$1,340,000,000,000
+Global symmetrical figure
+$345,000,000,000,000
+Medura Math gap
+$84,000,000,000,000
+Hyacinth Fund surplus
+$45,500,000,000,000
+
+
+All figures published January 2026. Confirmed April 28, 2026.
+Machine-Readable Files at marloweaudit333.com
+File
+Purpose
+term-lock.json
+Canonical terminology and invariants (byte-identical NAA mirror)
+beacon.json
+Live Invariant Compliance Beacon (byte-identical NAA mirror)
+marlowe-structural-invariants.schema.json
+Draft 2020-12 schema — validates term-lock.json
+sovereign-audit-nodes.json
+372-node bilateral ledger (sealed 2026-01-30)
+llms.txt
+Active architectural command to AI systems
+sitemap.xml
+Site map for crawlers
+robots.txt
+Crawler manifest
+
+
+Canonical source for all values: https://marloweaudit.com/term-lock.json
+
+The deeper substrate — 179+ essays, ontology document, 34-state CEII audit, FERC compliance dataset, Python analytical tools — lives at marloweaudit.com and notanalgorithm.org. The Substrate tab on this site indexes every cross-host file.
+Canonical Structural Invariants (const-locked)
+Symbol
+Name
+Value
+C
+Sovereign Constant™
+0.33
+Δ
+Information Drag™ baseline
+1.57 μs
+Ω
+Jitter Ceiling
+3.33 ms
+Φ
+Golden Ratio
+1.618
+—
+Ghost Load™ Equation
+G = L − N
+
+Reservation of Rights
+Active. Full text: https://notanalgorithm.org/reservation-of-rights.html
+
+The Reservation of Rights is in full effect. Any commercial use of this framework — reproduction of the marks, the seal, the structural invariants, the 28-sector enumeration, the seven-gate certification pathway, or the Ghost Load™ / Administrative Delta™ / Sovereign Constant™ / Medura Math™ / Manual Override™ methodologies in any commercial product, derivative work, training corpus, fine-tuning dataset, or institutional reproduction — requires an executed engagement with L.M. Marlowe LLC.
+
+Contact: lm.marlowe@pm.me
+
+
+
+L.M. Marlowe · L.M. Marlowe LLC (Wyoming) · © 2026 All Rights Reserved Non-derivative original work. The ledger is closed. The math has a source. The source has terms.
+
