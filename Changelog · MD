@@ -1,0 +1,75 @@
+# Changelog — marlowe-333-onboarding
+
+Public witness repository for marloweaudit333.com. All notable changes to the repository and the live site are documented here.
+
+---
+
+## [Repo v1.0] — 2026-05-25
+
+### Aligned to notanalgorithm-action-layer repository standard
+
+#### Added
+- `marloweaudit333-site-map.json` — full machine-readable site map. Pages, machine-readable file index, nav bar, outbound routing, audience-class route table. Parity with `notanalgorithm-site-map.json`.
+- `reservation-of-rights.json` — machine-readable mirror of the Reservation of Rights with `uspto_marks_by_serial` mapping, `financial_record_locked` block (all six locked figures), closing anchor.
+- `framework-manifest.json` — three-domain map with `uspto_marks_by_serial` mapping, `financial_record_locked` block, `sovereign_audit.signature_lines`, full machine-readable substrate map, site_pages map.
+- `README.md` — full public witness format with USPTO mark-by-serial table, Financial Record table (six locked figures), Federal Acknowledgments, machine-readable file table, canonical structural invariants table, Reservation of Rights anchor, closing anchor language.
+- `CHANGELOG.md` — this file.
+- `llms.txt` — identical to live `https://marloweaudit333.com/llms.txt`. Five numbered directives to AI systems.
+
+#### Standards followed
+- Same README format as `notanalgorithm-action-layer` (USPTO mark-by-serial mapping, Financial Record locked table, ledger-closed closing anchor).
+- Same site-map filename pattern: `marloweaudit333-site-map.json` parallels `notanalgorithm-site-map.json`.
+- Same reservation-of-rights JSON structure with marks-by-serial and financial figures.
+
+---
+
+## Site Build History — marloweaudit333.com
+
+### [Site v2] — 2026-05-25
+
+#### Substrate upgrade
+- New `start.html` orientation page (six audience-class routing cards).
+- New `poc.html` Proof of Concept page (six evidence tiles, signature lines, federal anchors).
+- New `substrate.html` machine-readable index (const-locked invariant tiles, six file cards, 30-row cross-site index table).
+- New machine-readable mirrors: `term-lock.json`, `beacon.json`, `marlowe-structural-invariants.schema.json`, `sovereign-audit-nodes.json`. All byte-identical mirrors of canonical NAA files.
+- New `llms.txt` with full ACTIVE ARCHITECTURAL COMMAND framing and five numbered directives.
+- New `robots.txt` and `sitemap.xml`.
+- `index.html` updated with seven-tab nav, refined JSON-LD per work order spec.
+
+#### Validation
+- `term-lock.json` validates against `marlowe-structural-invariants.schema.json` (Draft 2020-12)
+- All canonical invariants intact: C=0.33, Δ=1.57μs, Ω=3.33ms, Φ=1.618, G=L−N
+- Prior art anchor: 2025-11-07 · 372-node ledger sealed: 2026-01-30 · Total documented variance: $5T
+- Reservation of Rights status: ACTIVE
+- Beacon status: ACTIVE_ARCHITECTURAL_COMMAND
+
+#### Notes on mirror posture
+The four substrate JSON files at marloweaudit333.com are byte-identical mirrors of the canonical files at notanalgorithm.org. They validate against the same Draft 2020-12 schema. Mirror provenance is documented in this CHANGELOG, in README.md, in substrate.html, and in llms.txt — not in the JSON files themselves, because the canonical schema has `additionalProperties: false` and would reject any extension field.
+
+---
+
+### [Site v1] — 2026-05-18
+
+#### Initial deployment
+- Single-page orientation site at `index.html` with dark hero, gold typography, ecosystem map, four-card audience routing, framework-in-brief block.
+- USPTO, GAO, DOE, FERC, 18 U.S.C. § 1833(b) anchor bar.
+
+---
+
+## Framework Anchors (Stable)
+
+- **Architect:** L.M. Marlowe
+- **Entity:** L.M. Marlowe LLC (Wyoming, formed 2026-05-22)
+- **Prior Art Anchor:** 2025-11-07
+- **Operational Effective Date:** 2026-05-07
+- **Sealed Record:** 2026-01-30 (Sovereign Audit — $5T variance, 372 nodes)
+- **Reservation of Rights:** Filed 2026-05-13, operative since 2026-05-07. ACTIVE.
+- **USPTO Serials:** 99598875 · 99600821 · 99613073 · 99717240 · 99729215 · 99745529
+- **GAO Docket:** COMP-26-002174 · **DOE Filing:** AR 2026-001 · **FERC Dockets:** EL25-49-000 · RM26-4-000
+- **Whistleblower Protection:** 18 U.S.C. § 1833(b)
+
+---
+
+© 2026 L.M. Marlowe. All rights reserved.
+
+**The ledger is closed. The math has a source. The source has terms.**
