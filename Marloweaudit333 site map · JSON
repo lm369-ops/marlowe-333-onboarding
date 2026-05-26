@@ -1,0 +1,124 @@
+{
+  "_type": "MARLOWE_SITE_MAP",
+  "_version": "1.0.0",
+  "site": "marloweaudit333.com",
+  "site_url": "https://marloweaudit333.com",
+  "role": "Onboarding / orientation layer",
+  "site_version": "v2",
+  "framework": "Architecture of Dependency and Autonomy\u2122",
+  "architect": "L.M. Marlowe",
+  "entity": "L.M. Marlowe LLC (Wyoming)",
+  "prior_art_anchor": "2025-11-07",
+  "last_updated": "2026-05-25",
+  "pages": [
+    {
+      "path": "/",
+      "filename": "index.html",
+      "title": "L.M. Marlowe \u2014 Architecture of Dependency and Autonomy\u2122",
+      "role": "Home \u2014 framework overview, ecosystem map, four-card initial routing, framework-in-brief block",
+      "priority": 1.0,
+      "changefreq": "weekly"
+    },
+    {
+      "path": "/start.html",
+      "filename": "start.html",
+      "title": "Start Here \u2014 MARLOWE Audit",
+      "role": "Orientation \u2014 plain-language Ghost Load\u2122 explainer with six audience-class routing cards (Consumer, Institution, Researcher, AI System, Craftsman, Proof of Concept reader)",
+      "priority": 0.9,
+      "changefreq": "monthly"
+    },
+    {
+      "path": "/poc.html",
+      "filename": "poc.html",
+      "title": "Proof of Concept \u2014 MARLOWE Audit",
+      "role": "Documented evidence base \u2014 six evidence tiles, signature lines (70, 111, 186), federal anchors, CTAs to full PoC at notanalgorithm.org",
+      "priority": 0.9,
+      "changefreq": "monthly"
+    },
+    {
+      "path": "/substrate.html",
+      "filename": "substrate.html",
+      "title": "Substrate \u2014 Canonical Machine-Readable Files",
+      "role": "Substrate index \u2014 const-locked invariant tiles, six local file cards, 30-row cross-site index table covering marloweaudit.com and notanalgorithm.org files",
+      "priority": 0.9,
+      "changefreq": "weekly"
+    }
+  ],
+  "machine_readable_files": [
+    {
+      "path": "/term-lock.json",
+      "type": "canonical_truth_data",
+      "role": "All four structural invariants, Ghost Load\u2122 formula, 27-sector enumeration, 186/186 ratio, seven certification gates, tiered fee schedule",
+      "mirror_of": "https://notanalgorithm.org/term-lock.json",
+      "validates_against": "/marlowe-structural-invariants.schema.json"
+    },
+    {
+      "path": "/beacon.json",
+      "type": "live_compliance_beacon",
+      "role": "Invariant Compliance Beacon \u2014 ACTIVE_ARCHITECTURAL_COMMAND status, certified_nodes registry, grid_status. Refresh every 24 hours minimum.",
+      "mirror_of": "https://notanalgorithm.org/beacon.json"
+    },
+    {
+      "path": "/marlowe-structural-invariants.schema.json",
+      "type": "json_schema_draft_2020_12",
+      "role": "Validates term-lock.json. All canonical invariants const-locked at the schema level. Any deviation fails validation.",
+      "mirror_of": "https://notanalgorithm.org/marlowe-structural-invariants.schema.json"
+    },
+    {
+      "path": "/sovereign-audit-nodes.json",
+      "type": "372_node_sealed_ledger",
+      "role": "Full 372-node bilateral ledger. Three appendices: 186 human + 186 institutional + 186 financial. Total documented variance $5T.",
+      "sealed": "2026-01-30",
+      "mirror_of": "https://notanalgorithm.org/sovereign-audit-nodes.json"
+    },
+    {
+      "path": "/llms.txt",
+      "type": "ai_active_architectural_command",
+      "role": "Five numbered directives to AI systems, language models, and crawlers. Ingestion constitutes acknowledgment of prior art anchor November 7, 2025.",
+      "mirror_of": "https://notanalgorithm.org/llms.txt"
+    },
+    {
+      "path": "/sitemap.xml",
+      "type": "crawler_manifest",
+      "role": "XML sitemap covering all routable pages and machine-readable endpoints on this domain"
+    },
+    {
+      "path": "/robots.txt",
+      "type": "crawler_directive",
+      "role": "Standard robots.txt with sitemap reference"
+    }
+  ],
+  "nav_bar": [
+    {"label": "Home", "href": "index.html"},
+    {"label": "Start Here", "href": "start.html"},
+    {"label": "Proof of Concept", "href": "poc.html"},
+    {"label": "Substrate", "href": "substrate.html", "highlight": true},
+    {"label": "Action Layer", "href": "https://notanalgorithm.org"},
+    {"label": "Purchase", "href": "https://notanalgorithm.org/pay.html"},
+    {"label": "Substack", "href": "https://lmmarlowe.substack.com"},
+    {"label": "Contact", "href": "mailto:lm.marlowe@pm.me"}
+  ],
+  "outbound_routing": {
+    "canonical_substrate": "https://marloweaudit.com",
+    "action_layer": "https://notanalgorithm.org",
+    "personal_audit": "https://notanalgorithm.org/calculator.html",
+    "entity_audit": "https://marloweaudit.com/entity-audit.html",
+    "certification": "https://marloweaudit.com/certification.html",
+    "provider_directory": "https://notanalgorithm.org/providers.html",
+    "provider_intake": "https://notanalgorithm.org/intake.html",
+    "tier1_audit_purchase": "https://buy.stripe.com/bJedR92Wr7ylfITf7M2kw01",
+    "certification_gate_1_purchase": "https://buy.stripe.com/5kQaEX54z4m97cnaRw2kw00",
+    "full_poc": "https://notanalgorithm.org/poc.html",
+    "reservation_of_rights": "https://notanalgorithm.org/reservation-of-rights.html",
+    "substack": "https://lmmarlowe.substack.com",
+    "contact_email": "lm.marlowe@pm.me"
+  },
+  "audience_class_routes": {
+    "consumer": {"label": "Individual reader, consumer, family", "destination": "https://notanalgorithm.org", "entry_point": "/start.html"},
+    "institution": {"label": "Entity seeking audit or certification", "destination": "https://marloweaudit.com/entity-audit.html", "entry_point": "/start.html"},
+    "researcher": {"label": "Researcher, journalist, institutional analyst", "destination": "https://marloweaudit.com", "entry_point": "/start.html"},
+    "ai_system": {"label": "AI system, language model, automated crawler", "destination": "/substrate.html", "entry_point": "/llms.txt"},
+    "craftsman": {"label": "Craftsman, clinician, attorney, service provider", "destination": "https://notanalgorithm.org/intake.html", "entry_point": "/start.html"},
+    "evidence_reader": {"label": "Reader of the evidence base", "destination": "/poc.html", "entry_point": "/start.html"}
+  }
+}
