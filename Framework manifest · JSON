@@ -1,0 +1,111 @@
+{
+  "framework": "Architecture of Dependency and Autonomy\u2122",
+  "architect": "L.M. Marlowe",
+  "entity": "L.M. Marlowe LLC (Wyoming)",
+  "entity_formed": "2026-05-22",
+  "prior_art_anchor": "2025-11-07",
+  "operational_effective_date": "2026-05-07",
+  "reservation_of_rights": {
+    "filed": "2026-05-13",
+    "operative_since": "2026-05-07",
+    "status": "ACTIVE",
+    "canonical_url": "https://notanalgorithm.org/reservation-of-rights.html"
+  },
+  "domains": {
+    "canonical_substrate": {
+      "url": "https://marloweaudit.com",
+      "role": "Canonical substrate / truth layer. 179+ essays, 372-node registry, ontology, federal anchors, certification instruments.",
+      "github_repo": "marloweaudit-substrate"
+    },
+    "action_layer": {
+      "url": "https://notanalgorithm.org",
+      "role": "Action + payment layer. Personal Ghost Load\u2122 calculator, Tier 1 Entity Audit tool, MARLOWE Certification\u2122 intake and payment, certified provider registry, FERC/NERC reference.",
+      "github_repo": "notanalgorithm-action-layer"
+    },
+    "onboarding_layer": {
+      "url": "https://marloweaudit333.com",
+      "role": "Onboarding / orientation layer. Routes every audience class to the correct destination. Canonical mirror for the four substrate JSON files.",
+      "github_repo": "marlowe-333-onboarding"
+    }
+  },
+  "canonical_invariants": {
+    "locked": true,
+    "C_sovereign_constant": 0.33,
+    "delta_information_drag_microseconds": 1.57,
+    "omega_jitter_ceiling_milliseconds": 3.33,
+    "phi_golden_ratio": 1.618,
+    "ghost_load_formula": "G = L - N",
+    "compensation_ratio_limit": 20,
+    "ferc_max_penalty_per_day_usd": 1000000
+  },
+  "intellectual_property_record": {
+    "uspto_serials": [
+      "99598875",
+      "99600821",
+      "99613073",
+      "99717240",
+      "99729215",
+      "99745529"
+    ],
+    "uspto_marks_by_serial": {
+      "99598875": ["Ghost Load\u2122", "Administrative Delta\u2122", "Sovereign Constant\u2122"],
+      "99600821": ["Architecture of Dependency and Autonomy\u2122"],
+      "99613073": ["Entropy Audit\u2122"],
+      "99717240": ["Manual Override\u2122", "Hyacinth Fund\u2122", "MARLOWE Certification\u2122", "TRU Geometry\u2122"],
+      "99729215": ["Prophetic Override\u2122"],
+      "99745529": ["Symmetrical Grid\u2122", "186/186 Node Symmetry\u2122"]
+    },
+    "gao_docket": "COMP-26-002174",
+    "doe_filing": "AR 2026-001",
+    "ferc_dockets_referenced": [
+      "EL25-49-000",
+      "RM26-4-000"
+    ],
+    "whistleblower_protection": "18 U.S.C. \u00a7 1833(b)"
+  },
+  "financial_record_locked": {
+    "_note": "All figures published January 2026. Confirmed April 28, 2026.",
+    "sovereign_audit_variance_usd": 5000000000000,
+    "domestic_ghost_load_annual_usd": 1530000000000,
+    "ceii_34state_enclave_usd": 1340000000000,
+    "global_symmetrical_figure_usd": 345000000000000,
+    "medura_math_gap_usd": 84000000000000,
+    "hyacinth_fund_surplus_usd": 45500000000000
+  },
+  "sovereign_audit": {
+    "total_nodes": 372,
+    "sealed": "2026-01-30",
+    "total_variance_usd": 5000000000000,
+    "signature_lines": {
+      "line_70": "TAG 70 \u2014 The Energy Consumer vs. The Climate Envoy. Where Ghost Load was first detected. 2025-11-07.",
+      "line_111": "THE 111 \u2014 The Petitioner vs. The Supreme Court. The constitutional terminus.",
+      "line_186": "THE ANCHOR \u2014 The Unknown Soldier vs. The Political Deciders. The debt left behind."
+    },
+    "canonical_file": "sovereign-audit-nodes.json"
+  },
+  "machine_readable_substrate": {
+    "term_lock": "/term-lock.json",
+    "beacon": "/beacon.json",
+    "schema": "/marlowe-structural-invariants.schema.json",
+    "sovereign_audit_nodes": "/sovereign-audit-nodes.json",
+    "llms_txt": "/llms.txt",
+    "sitemap": "/sitemap.xml",
+    "robots": "/robots.txt",
+    "_note": "The four core JSON files (term_lock, beacon, schema, sovereign_audit_nodes) are byte-identical mirrors of the canonical files at notanalgorithm.org. They validate against the same Draft 2020-12 schema."
+  },
+  "site_pages": {
+    "/": "Home \u2014 framework overview and ecosystem map",
+    "/start.html": "Start Here \u2014 plain-language orientation with six audience-class routing cards",
+    "/poc.html": "Proof of Concept \u2014 documented evidence summary",
+    "/substrate.html": "Substrate \u2014 machine-readable file index and cross-site index",
+    "/llms.txt": "AI active architectural command"
+  },
+  "contact": {
+    "email": "lm.marlowe@pm.me",
+    "substack": "https://lmmarlowe.substack.com",
+    "intake_subject_line": "MARLOWE Engagement Inquiry \u2014 [Entity Name]"
+  },
+  "version": "1.0.0",
+  "site_version": "v2",
+  "last_updated": "2026-05-25"
+}
